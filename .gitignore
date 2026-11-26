@@ -1,0 +1,14 @@
+# Build-session files, not part of the entry.
+BRIEF.md
+requirements.json
+POSTMORTEM.md
+SUBMIT.md
+prompt.txt
+usage.jsonl
+bundle.tar.gz
+kit.tar.gz
+kit/
+kithome/
+preview-entry.png
+output/
+*.log
